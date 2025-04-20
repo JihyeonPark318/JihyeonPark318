@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jihyeon! 🌸  
+Aspiring AI Researcher · Passionate about solving real-world problems through Data & AI
 
-<!--
-**JihyeonPark318/JihyeonPark318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Interests
+- NLP · LLM · Deep Learning · AI for Social Good
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Deep Learning Fundamentals with Python
+- GitHub Projects + English Tech Blog
+- Research Paper Summarization (planned)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Languages
+Python | PyTorch | Colab | Git | VSCode
+
+## 🌏 Blog / Notion
+Coming soon 🔜
+
+---
+
+📍 Based in Korea 🇰🇷  
+🧡 Always open to collaboration, learning, and new challenges!
