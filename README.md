@@ -1,21 +1,35 @@
-# Hi, I'm Jihyeon! 🌸  
-Aspiring AI Researcher · Passionate about solving real-world problems through Data & AI
+# 👋 Hi, I'm Jihyeon!
 
-## 🔭 Interests
-- NLP · LLM · Deep Learning · AI for Social Good
-
-## 📚 Currently Learning
-- Deep Learning Fundamentals with Python
-- GitHub Projects + English Tech Blog
-- Research Paper Summarization (planned)
-
-## 🛠 Tools & Languages
-Python | PyTorch | Colab | Git | VSCode
-
-## 🌏 Blog / Notion
-Coming soon 🔜
+Aspiring AI/Data Researcher · Passionate about solving real-world problems with Data & AI
 
 ---
 
-📍 Based in Korea 🇰🇷  
-🧡 Always open to collaboration, learning, and new challenges!
+## 💼 Interests
+- Data Science & Analytics  
+- Natural Language Processing (NLP), Deep Learning  
+- AI for Problem Solving and Product Innovation
+
+---
+
+## 🚀 Currently Working On
+- Deep Learning Fundamentals with Python  
+- GitHub Projects & Tech Blog (English)  
+- NLP for Beginners – Personal Study & Exploration
+
+---
+
+## 🛠 Tech Stack
+**Languages**: Python, R, Java, C  
+**Frameworks**: PyTorch, TensorFlow, Keras, NumPy, Pandas  
+**Tools**: Git, GitHub, VSCode, Jupyter, Colab, MySQL  
+**Others**: Jira, Confluence, Slack, Notion  
+
+---
+
+## 📝 Blog & Notion
+Coming Soon! (Tech blog in English & Project summaries)
+
+---
+
+📍 Based in Korea | 📬 Contact: jihyeonpark318@gmail.com  
+✨ Always learning, exploring, and building!
