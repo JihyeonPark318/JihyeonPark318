@@ -49,9 +49,11 @@
 
 ---
 
-## 🌐 Blog & Notion
+## 🌐 Tech Blog
+<a href="https://aeolian-stranger-f37.notion.site/Jihyeon-Park-1db6eded2310800f800fc6defe9d415a">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion Blog">
+</a>
 
-🚧 Coming Soon:  
 📓 English Tech Blog & Research Notes (NLP, DL, etc.)
 
 ---
