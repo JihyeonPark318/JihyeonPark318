@@ -59,5 +59,5 @@
 ---
 
 📍 Based in Korea 🇰🇷  
-📫 Reach me at: [jihyeonpark318@gmail.com](mailto:jihyeonpark318@gmail.com)  
+📫 Reach me at: [parkjihyeon318@gmail.com](mailto:parkjihyeon318@gmail.com)  
 🧡 Always learning, exploring, and building!
